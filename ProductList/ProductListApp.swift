@@ -4,7 +4,6 @@ import SwiftUI
 struct ProductListApp: App {
     var body: some Scene {
         WindowGroup {
-            //ContentView()
             ProductListView()
         }
     }
